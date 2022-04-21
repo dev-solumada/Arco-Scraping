@@ -36,5 +36,5 @@ Handle expired session
 
 ### v6
 Managing heroku ideling
-Active bot pinging the app (https://uptimerobot.com/) free
+Active bot pinging the app (https://uptimerobot.com/) free <br>
 Do login before starting server
