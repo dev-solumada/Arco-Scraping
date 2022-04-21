@@ -12,6 +12,9 @@ Your puppeteer app won't run if your isn't build with puppeteer-heroku-buildpack
 Go to heroku > setting > builder-pack > add this link bellow <br>
 https://github.com/jontewks/puppeteer-heroku-buildpack.git
 
+## Deployd at :
+https://dashboard.heroku.com/apps/arco-kofax-scap
+
 ## About release
 ### V1
 Server runnin with heroku local <br>
@@ -31,3 +34,7 @@ Handeling multiple request scrap <br>
 App, puppeteer don't create new browser or page on every scrap <br>
 Handle expired session
 
+### v6
+Managing heroku ideling
+Active bot pinging the app (https://uptimerobot.com/) free
+Do login before starting server
